@@ -1,0 +1,36 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    overflow: hidden;
+}
+li{
+    float: left;
+
+}
+li a{
+    padding: 20px;
+    color: sienna;
+    display: block;
+    text-decoration: none;
+
+}
+h2{
+    color: aqua;
+    text-align: center;
+}
+body{
+    background-image: url("logo.jpeg")
+}
+
+
+
+p{
+    color: lawngreen;
+    font-size: large;
+    font-family:Loma;
+}
+table{
+
+}
